@@ -1,0 +1,81 @@
+body {
+    position: relative;
+    padding-top: 100px;
+    width: 800px;
+    background-color: #f9f4f4;
+    margin:0 auto;
+}
+.titlewrapper {
+    position:fixed;
+    background-color: #f9f4f4;
+    top:0;
+    height: 100px;
+    width:800px;
+}
+.pagetitle {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.titlemenuwrapper {
+    text-align: center;
+}
+.titlemenu {
+    display: inline-block;
+    width: 130px;
+    margin: 0 7px 0 7px;
+    padding: 10px 30px 10px 30px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.titlemenu:hover {
+    background-color: lightblue;
+}
+.contentwrapper {
+    padding: 0 100px 50px 100px;
+}
+.projectimage {
+    max-width: 200px;
+    width: 100%;
+    height: 100%;
+}
+.projectimagewrapper {
+    max-width: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+.projectcontentwrapper {
+    margin: 0 0 0 15px;
+    max-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+.projectcontentwrapper>h2 {
+    margin-top: 0;
+}
+.babytaekwondo {
+    max-width: 200px;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+.taekwondo {
+    max-width: 300px;
+    width: 100%;
+    height: 100%;
+}
+.acapella {
+    max-width: 500px;
+    width: 100%;
+    height: 100%;
+}
+.teaching {
+    max-width: 500px;
+    width: 100%;
+    height: 100%;
+}
+.cookie2 {
+    max-width: 500px;
+    width: 100%;
+    height: 100%;
+}
