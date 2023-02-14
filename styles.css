@@ -1,3 +1,6 @@
+.html{
+    background-color: #dec3c3;
+}
 body {
     position: relative;
     padding-top: 100px;
@@ -21,6 +24,15 @@ body {
     text-align: center;
 }
 .titlemenu {
+    display: inline-block;
+    width: 130px;
+    margin: 0 7px 0 7px;
+    padding: 10px 30px 10px 30px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.currenttitlemenu {
+    background-color: #dec3c3;
     display: inline-block;
     width: 130px;
     margin: 0 7px 0 7px;
